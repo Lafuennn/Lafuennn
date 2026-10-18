@@ -1,6 +1,6 @@
 # Hi, I'm Kağan
 
-Computer Engineering student at Kadir Has University, Istanbul.
+Computer Engineering first year student at Kadir Has University, Istanbul.
 I build small tools in Python and C, and I'm learning networking and security.
 
 **Currently**
